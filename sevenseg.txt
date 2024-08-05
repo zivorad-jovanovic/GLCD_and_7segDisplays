@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main(){
 
 printf("This is file for creating 7seg pictures\n");
